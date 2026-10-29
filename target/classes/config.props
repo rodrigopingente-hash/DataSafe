@@ -1,0 +1,7 @@
+# Systems Privacy Labs and Projects - Configuration File
+
+# XACML (Lab 1)
+xacml.policy.file=ci_policies.xml
+
+# Differential Privacy
+dp.epsilon=5.0
